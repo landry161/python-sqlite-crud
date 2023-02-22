@@ -1,6 +1,5 @@
 import sqlite3
 from sqlite3 import Error
-import pdb
 
 """
 Pour la création de la base de données, le repertoire doit être créé
